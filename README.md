@@ -26,7 +26,7 @@
 **P.S The data type OBJECT was not specified in the problem given, I added it to represent JSON schema when the value is a JSON object** 
 
 ## How to use this project
-> Add schemas to the data directory.
+> Add schemas to the data directory. You can check the data folder in the root directory to see the data examples and after that run the command `py main.py`
 
 ## 🛠 Built With <a name="built-with"></a>
 
