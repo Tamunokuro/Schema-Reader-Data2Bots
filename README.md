@@ -25,6 +25,9 @@
 > This is my attempt in solving the Schema Reader [problem](./PROBLEM.md). This project reads the schema provided in the data directory and dumps the translated data into the schema directory. <br>
 **P.S The data type OBJECT was not specified in the problem given, I added it to represent JSON schema when the value is a JSON object** 
 
+## How to use this project
+> Add schemas to the data directory.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Prerequisites
