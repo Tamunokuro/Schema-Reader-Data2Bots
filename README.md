@@ -27,14 +27,11 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Prerequisites
 
-<details>
-  <summary>Python</summary>
-  <ul>
-    <li><a href="https://python.org/">Python</a></li>
-  </ul>
-</details>
+In order to run this project you need:
+
+- [Python](https://python.org/)
 
 <!-- Features -->
 
@@ -59,12 +56,6 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-- [Python](https://python.org/)
 
 ### Setup
 
