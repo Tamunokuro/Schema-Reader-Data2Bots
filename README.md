@@ -96,8 +96,7 @@ To run tests, run the following command:
 
 ```sh
   python -m unittest tests/test_json_loader.py
-``
-
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
