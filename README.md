@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Schema Reader] <a name="about-project"></a>
+# 📖 Schema Reader <a name="about-project"></a>
 > This is my attempt in solving the Schema Reader [problem](./PROBLEM.md). This project reads the schema provided in the data directory and dumps the translated data into the schema directory.
 
 ## 🛠 Built With <a name="built-with"></a>
