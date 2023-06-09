@@ -37,8 +37,6 @@ In order to run this project you need:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Reads schema data**
 - **Writes translated schema data**
 
