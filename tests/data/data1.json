@@ -1,0 +1,15 @@
+{
+    "message": {
+        "participantIds": ["ABCDEFGHIJKLMNOPQRST", "ABCDEFGHIJKLMNOPQRSTUVWXY"],
+        "joiner": {
+            "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+            "nickname": "ABCDEFGHIJKLMNO",
+            "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC"
+        },
+        "nations": "Gen-Z",
+        "age": 27,
+        "categories": [
+            {"X-Men": "Marvel", "Justice League": "DC"}
+        ]
+    }
+}
