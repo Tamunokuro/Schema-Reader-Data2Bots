@@ -34,7 +34,7 @@
 
 In order to run this project you need:
 
-- [Python](https://python.org/)
+- [Python3](https://python.org/)
 
 <!-- Features -->
 
