@@ -1,6 +1,3 @@
-#load files ending .json
-# read the schema from the folder /data
-# dump the data in the folder /schema
 from json_loader import JSONReader
 
 def main():
